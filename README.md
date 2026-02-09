@@ -1,0 +1,38 @@
+# Mayer Hawthorne – No Strings
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:20.02] I saw you looking at me girl
+[00:24.33] When I first set foot into the room
+[00:29.41] You didn't want me to see girl
+[00:33.47] You didn't wanna lay your cards so soon
+[00:38.83] I see you mulling it over
+[00:42.83] You wonder what your friends might think of you
+[00:47.93] Angel on your shoulder
+[00:52.28] But you know just what you want to do
+[01:10.78] 
+[00:57.65] No, I don't need to know a thing about your past
+[01:07.39] No, I just want one night with you, no strings attached
+[01:16.64] And I know that we might not be the perfect match
+[01:25.99] And I just want one night with you, no strings attached
+[01:53.49] 
+[01:34.67] I know you tryna be good girl
+[01:38.68] But you imagine what I'm like in bed
+[01:43.98] You try to push it aside girl
+[01:48.30] But it already went through your head
+[01:53.23] It's one o'clock in the morning
+[01:57.37] And you're buzzing like a honey bee
+[02:02.66] Oooh, why you're trying to control it?
+[02:06.86] When you wanna just come home with me
+[02:25.36] 
+[02:12.51] No, I don't need to know a thing about your past
+[02:21.65] No, I just want one night with you, no strings attached
+[02:31.32] And I know that we might not be the perfect match
+[02:40.78] And I just want one night with you, no strings attached
+[03:08.28] 
+[02:49.91] No, I don't want to think this through
+[02:54.65] I just want one night with you
+[02:59.28] No, I don't want to think this through
+[03:03.93] I just want one night with you, girl
+```
