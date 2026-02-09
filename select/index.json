@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "No Strings",
+  "base_artist": "Mayer Hawthorne",
+  "createdAt": "2026-02-09T13:52:48.897134Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "No Strings",
+      "artist": "Mayer Hawthorne",
+      "has_synced": true,
+      "path": "select/01_No_Strings_Mayer_Hawthorne.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love With No Strings",
+      "artist": "Chaka Khan",
+      "has_synced": true,
+      "path": "select/02_Love_With_No_Strings_Chaka_Khan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Strings",
+      "artist": "Nicole Millar",
+      "has_synced": false,
+      "path": "select/03_No_Strings_Nicole_Millar.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tonight, Tonight (Band Version Only / No Strings)",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": true,
+      "path": "select/04_Tonight,_Tonight_(Band_Version_Only___No_Strings)_The_Smashing_Pumpkins.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tonight, Tonight (band version only, no strings)",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": true,
+      "path": "select/05_Tonight,_Tonight_(band_version_only,_no_strings)_The_Smashing_Pumpkins.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dream Police - No Strings Version",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/06_Dream_Police_-_No_Strings_Version_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "No Strings Attached",
+      "artist": "Skyclad",
+      "has_synced": false,
+      "path": "select/07_No_Strings_Attached_Skyclad.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dream Police (no strings version)",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/08_Dream_Police_(no_strings_version)_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I've Got No Strings",
+      "artist": "Barbra Streisand",
+      "has_synced": true,
+      "path": "select/09_I've_Got_No_Strings_Barbra_Streisand.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "No Strings Attached",
+      "artist": "*NSYNC",
+      "has_synced": true,
+      "path": "select/10_No_Strings_Attached_NSYNC.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No Strings Attached",
+      "artist": "'N Sync",
+      "has_synced": true,
+      "path": "select/11_No_Strings_Attached_'N_Sync.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I've Got No Strings",
+      "artist": "Gipsy Kings",
+      "has_synced": false,
+      "path": "select/12_I've_Got_No_Strings_Gipsy_Kings.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I've Got No Strings",
+      "artist": "Dickie Jones",
+      "has_synced": true,
+      "path": "select/13_I've_Got_No_Strings_Dickie_Jones.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "No Strings",
+      "artist": "Ella Fitzgerald",
+      "has_synced": false,
+      "path": "select/14_No_Strings_Ella_Fitzgerald.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I've Got No Strings",
+      "artist": "Leigh Harline",
+      "has_synced": false,
+      "path": "select/15_I've_Got_No_Strings_Leigh_Harline.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No Strings",
+      "artist": "Mayer Hawthorne",
+      "has_synced": false,
+      "path": "select/pl_01_No_Strings_Mayer_Hawthorne.txt"
+    }
+  ]
+}
